@@ -6,7 +6,7 @@ use utf8;
 use ChatGPTSummary::Utils;
 
 our $PLUGIN_NAME = 'ChatGPTSummary';
-our $VERSION     = '1.0';
+our $VERSION     = '1.0-jkbys.1';
 
 my $prompt_text = <<"EOS";
 #命令書
